@@ -8,13 +8,13 @@ require (
 	github.com/Azure/azure-sdk-for-go v61.4.0+incompatible
 	github.com/Azure/azure-storage-blob-go v0.14.0
 	github.com/Azure/go-autorest/autorest v0.11.18
-	github.com/Azure/go-autorest/autorest/adal v0.9.13
+	github.com/Azure/go-autorest/autorest/adal v0.9.23
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.7
 	github.com/Azure/go-autorest/autorest/azure/cli v0.4.2
 	github.com/Azure/go-autorest/autorest/to v0.4.0 // indirect
 	github.com/Azure/go-autorest/autorest/validation v0.3.1 // indirect
 	github.com/StackExchange/wmi v0.0.0-20210224194228-fe8f1750fd46 // indirect
-	github.com/aws/aws-sdk-go v1.44.37
+	github.com/aws/aws-sdk-go v1.51.10
 	github.com/go-ole/go-ole v1.2.5 // indirect
 	github.com/gofrs/uuid v4.2.0+incompatible
 	github.com/google/uuid v1.2.0
@@ -29,8 +29,8 @@ require (
 	github.com/smartystreets/assertions v1.2.0 // indirect
 	github.com/urfave/cli v1.21.1-0.20190807111034-521735b7608a
 	golang.org/x/oauth2 v0.0.0-20210323180902-22b0adad7558
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.2.0
+	golang.org/x/sync v0.1.0
+	golang.org/x/sys v0.13.0
 	google.golang.org/api v0.43.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/ini.v1 v1.51.0
